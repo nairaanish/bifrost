@@ -1,0 +1,17 @@
+{
+  "name": "bifrost",
+  "version": "1.0.0",
+  "description": "The objective for this project is to create an image visualization tool built for people who want to present information visually without the need of creating slide decks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fabric": "^6.4.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
